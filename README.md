@@ -9,7 +9,7 @@ Code snippets: The date dynamically updates in the header of the website using t
 These for loops send and retrieve the data to/from local storage:
 ![Local Storage Code Screenshot](LocalStorageCodeScnShot.jpg)
 Finally the input boxes dynamically change color based on the time of day using this for loop:
-![Color Change Code Screenshot](ColorChangeChodeScnShot.jpg)
+![Color Change Code Screenshot](ColorChangeCodeScnShot.jpg)
 Full Screenshot:
 ![FullWebpageScreenshot](screencapture-127-0-0-1-5500-index-html-2021-06-24-21_56_52.png)
 
